@@ -23,33 +23,43 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+console.log(name + " must not return to Hogwarts!")
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = "Casey";
+var isHungry = true;
+var numberOfPets = 1;
+console.log(firstName, isHungry, numberOfPets)
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-
+//I chose string data type for 'firstName' because names and strings both use alphabet characters
+//I chose booblean data type for "isHungry" becasuse the 'is' let me know it would be a happy/sad or true/false statement
+//I chose integer data type for 'numberOfPets' because the variable states it's requesting a number value, integers are number values.
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-
+firstName = "Zach"
+isHungry = false
+numberOfPets = 10
+console.log(firstName, isHungry, numberOfPets)
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
-
+var totalSnacks = (healthySnacks + junkFoodSnacks)
+console.log(totalSnacks)
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
