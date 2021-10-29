@@ -16,7 +16,7 @@
 
 3. Think of a web or mobile application you use regularly. Where is an example of a place that the developers probably use Arrays? Explain.
 
-- Developers may use arrays on a site like Pinterest. Each image or pin on Pinterest has a series of tags (data points) associated with the image. For example a picture of a kitchen may have the tags lighting, cabinets, home, remodel, interior design. Each of those tags (data points) would be held in an array for that specific picture of the kitchen (the variable). When the user searches for the word lighting, that data point in the array for the kitchen picture will be called, and the user can view that image.
+- Developers may use arrays on a site such as Pinterest. Each pin (image with a link) on Pinterest has a series of tags associated to the description image. For example a picture of a kitchen may have the tags lighting, cabinets, home, remodel, interior design. Each of those tags could be string elements held in an array for that specific picture of the kitchen (the variable). When the user searches for the word lighting, the element "lighting" in the array for the kitchen picture will be called, and the user can view that image.
 
 4. In your own words, explain what an Array method is.
 
@@ -25,8 +25,8 @@
 5. What is the purpose of a loop? When would we use a loop in conjunction with array vs. without?
 
 - A loop allows a program to perform an action a given number of times without having to write new code each time.
-- A loop should be ran with an array when an action needs to be performed on each data point.
-- A loop would be used without an array when using a loop for a counter, or when the same action doesn't need to be performed on each item in an array.
+- A loop should be ran with an array when an action needs to be performed on each element within the array.
+- A loop would be used without an array when using a loop for a counter, or when the same action doesn't need to be performed on each element in an array.
 
 6. If you had to teach a 5 year old about loops, how would you explain it?
 
