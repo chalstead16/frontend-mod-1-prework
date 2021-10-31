@@ -31,9 +31,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Screen Shot 2021-10-31 at 5 33 43 PM](https://user-images.githubusercontent.com/91504411/139603396-848d830e-4292-46a2-8241-a4d9d759ed2e.png)
+- ![Screen Shot 2021-10-31 at 5 33 53 PM](https://user-images.githubusercontent.com/91504411/139603413-2385e67e-44d6-4cb9-b75e-cb7a45955cc9.png)
+- ![Screen Shot 2021-10-31 at 5 34 00 PM](https://user-images.githubusercontent.com/91504411/139603424-2d632b2d-e8d2-4d28-9079-1874f0cb5940.png)
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
