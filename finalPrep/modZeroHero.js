@@ -2,7 +2,7 @@
 
 // Declare two variables - heroName AND specialAbility - set to strings
 
-var heroName = "Casey";
+var heroName = "Cosmic Casey";
 var specialAbility = "Teleportation";
 
 
@@ -10,7 +10,7 @@ var specialAbility = "Teleportation";
 //   greeting should be assigned to a string that uses concatenation to include the heroName
 //   catchphrase should be assigned to a string that uses interpolation to include the specialAbility
 
-var greeting = "Hello" + "Casey!";
+var greeting = "Hello" + ' ' + heroName;
 var catchphrase = `We don't need no man, I have ${specialAbility}!`;
 
 // Declare two variables - power AND energy - set to integers
@@ -49,7 +49,7 @@ archEnemies.push("Killer Whales");
 console.log(archEnemies);
 
 // Remove the first sidekick from the sidekicks array
-sidekick.pop();
+sidekicks.shift();
 
 // Print the sidekicks array to console to ensure you added a new sidekick
 console.log(sidekicks);
@@ -99,7 +99,7 @@ assessSituation(3, announcement,  excuse);
 //   - citiesDestroyed (array)
 //   - luckyNumbers (array)
 //   - address (object with following key/values: number , street , state, zip)
-var = scaryMonster ={
+var scaryMonster = {
   name:"Scary Sam",
   smell:"skunky",
   weight:1000,
