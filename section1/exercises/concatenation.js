@@ -19,13 +19,14 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-//The result of line 22 will be a string data type. The resaon this work
-//is because of type coercion. Type coercion allows JavaScript to convert,
-//the number to a string, so the two can be combined.
+
+/*The return of line 22 will be a single string data type including the "My zoo has", the value of numberOfCreates, coerced into a strin, as well ast the value of the creatures variables.
+The numberOfCreatures is converted to a string because of type coercion. JavaScript coerces numbers to string inside of concatenation.
+The concatination, delcared by the + operator, combines each value into a single data point of a string.*/
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -33,7 +34,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log("The " + speedy + " " + "jumped over the " + slowPoke)
+console.log("The " + speedy + " " + "jumped over the " + slowPoke);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -43,16 +44,16 @@ console.log("The " + speedy + " " + "jumped over the " + slowPoke)
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!")
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-var name = "Casey"
-var favoriteFood = "sushi"
+var name = "Casey";
+var favoriteFood = "sushi";
 
-console.log("Hi! I'm " + name + " and I love " + favoriteFood + "!")
+console.log("Hi! I'm " + name + " and I love " + favoriteFood + "!");
 
 //-------------------
 // FINAL CHECK
