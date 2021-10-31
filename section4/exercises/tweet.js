@@ -17,13 +17,13 @@ class Tweet {
     this.comments = comments;
   }
   addLikes(){
-    this.numberOfLikes++
+    this.numberOfLikes++;
   }
   addComment(newComment){
     this.comments.push(newComment);
   }
 
-};
+}
 
 var userCasey = new Tweet("Casey H.", "Wazzaahhh?!", "3:30 pm", 5, ["Just Chillin'!", "Watching the game!", "Tweeting! Bark!"]);
 console.log(userCasey);
@@ -32,7 +32,7 @@ var userZach = new Tweet("Zach H.", "This Iowa game is killing me!", "1:15 pm", 
 console.log(userZach);
 
 var userZoey = new Tweet("Zoey H.", "Dogs are on twitter now!", "10:00 am", 1000, ["Uh how are you typing?!", "Zoey is the cutest puppy <3", "Puppies in tech!"]);
-console.log(userZoey)
+console.log(userZoey);
 
 userCasey.addLikes();
 console.log(userCasey);

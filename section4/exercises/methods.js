@@ -18,7 +18,7 @@ var lunchOrder = {
   beverage: "iced tea",
   tableNumber: 47,
   prepare: function(){
-    console.log("Order is being prepared, please wait.")
+    console.log("Order is being prepared, please wait.");
   },
   complete: function(){
     console.log("Order is completed, please pick up.");
