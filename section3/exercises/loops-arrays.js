@@ -72,8 +72,8 @@ for (var i = 0; i < ages.length; i++){
   } else if (ages[i] === 34){
     console.log("Studies show, age" + ' ' + ages[2] + ' ' + "is the happiest year on average.");
   } else if (ages[i] >= 65){
-    console.log(ages[i] + "," + ' ' + "you're over the hill." )
+    console.log(ages[i] + "," + ' ' + "you're over the hill." );
   } else if (ages[i] === 49){
-    console.log(ages[i] + "," + ' ' + "you're almost over the hill.")
+    console.log(ages[i] + "," + ' ' + "you're almost over the hill.");
   }
-};
+}

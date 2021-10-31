@@ -89,9 +89,9 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // may be storing data? Come up with 3 examples - they could be from different web applications or
 // all from the same one.
 
-// 1: Google Drive
-// 2: Pinterest
-// 3: Online Shopping Carts
+// 1: Files in Google Drive 
+// 2: Pins on Pinterest
+// 3: Items in an Online Shopping Carts
 
 
 //-------------------
