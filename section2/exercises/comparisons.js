@@ -73,21 +73,20 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 // Make sure YOU can explain it that way!
 
 console.log(4 < 9);
-//YOU DO: The code in line 75 commands the console to log the result of the comparison number 4 is less than the number 9
-// the return  of the comparison will be true
-
+//YOU DO: The code in line 75 commands the console to print the result of the comparison integer 4 is less than the number 9
+// the return  of the comparison will be true.
 var books = 3;
 console.log(4 < books);
-// YOU DO: Line 78 commands the computer to store variable name books to have a value of the number 3
-// Line 79 commands the console to log the comparison result of the number four is less than the books value which is the number three,
+// YOU DO: Line 78 commands the computer to store variable books to be equal to a value of the number 3
+// Line 79 commands the console to print the comparison result of the integer 4 is less than the books value which is the number 3,
 // the return of this comparison is false.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO: Line 83 commands the computer to store the variable name friends to have a value of the number 6
-// Line 84 commands the computer to store the variable name siblings to have a value of the number 2
-// Line 85 commands the console to log the results of the comparison variablies friends, a value of six, is greater than siblings, a value of 2.
+// YOU DO: Line 83 commands the computer to store the variable friends to be equal to the value of the number 6
+// Line 84 commands the computer to store the variable name siblings to be equal to the value of the number 2
+// Line 85 commands the console to print the return of the comparison results  of variablies friends, a value of six, is greater than siblings, a value of 2.
 // The return of the comparison is true
 
 var attendees = 9;
@@ -95,7 +94,7 @@ var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Line 91 commands the computer to store the variable name attendees to have a value of the number 9
 // Line 92 commands the computer to store the variable meals to have the value of the number 8
-// Line 93 commands the console to log the results of the comparison of variables attendees, a value of 9, is not equal to meals, a value of 8
+// Line 93 commands the console to print the return of the comparison results of variables attendees, a value of 9, is not equal to meals, a value of 8
 // The return of the comparison is true
 
 

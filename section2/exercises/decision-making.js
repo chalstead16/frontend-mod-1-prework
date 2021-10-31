@@ -38,28 +38,36 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-Between lines 14 and 18 an if/else statement was created to set the conditions for the story execution. Depending on which value the variable has, the execution of the condition will change.
+
+Between lines 14 and 18 an `if` statement and `else/if` statements were created to set the conditions for the story execution.
+Depending on which value the variable has, and which condition returns true, the path the script executes will change.
 
 2. What variable has a new value assigned to it after the first if statement executes?
+
 The bearClothing variable has a new value assigned after the doorChoice statement is executed.
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+
 If the variable doorChoice was equal to 3, the bearClothing value would be scarf.
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 Between lines 27 and 25, the if/else statement is telling the console:
-If the bearChoice variable is equal to 1, print the string line 28 including the if/else statement bearClothing result to the console.
-If the bearChoice variable is equal to 2, returne line 30 with the previous if/else statements bearClothing result within the string to the console.
-If the bearChoice variable is equal to 3, print the string in line 32 with to the console.
-If the bearChoice variable is equal to anything other than 1, 2 or 3, print the string in line 35 to the console.
+
+If the bearChoice variable has a value equal to 1, print the string line 28 including bearClothing value from the conditions result of lines 14-18 to the console.
+If the bearChoice variable has a value equal to 2, returne line 30, which includes the bearClothing value from the conditions result of lines 14-18 to the console.
+If the bearChoice variable has a value equal to 3, print the string in line 32 with to the console.
+If the bearChoice variable has a value equal to anything other than 1, 2 or 3, print the string in line 35 to the console.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+
 The final outcome would be "You run as fast as you can into the next room. It's full of snakes!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+
 The final ending would be "You tell the bear the hat is too small and it starts to cry!"
 
 7. What is your favorite ending?
+
 You stay with the bear and it becomes your best friend!
 
 */

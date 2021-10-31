@@ -52,13 +52,13 @@ greetMe("Sammy");
 
 // YOU DO: Write a function that takes in 2 numbers as arguments, Numbers, and logs their sum
 // Then, call that function 3 times, each time, passing in 2 different Numbers.
-function math(num1, num2){
+function addition(num1, num2){
   console.log(num1 + num2)
 };
 
-math(5, 3);
-math(1, 2);
-math(4,10);
+addition(5, 3);
+addition(1, 2);
+addition(4,10);
 
 
 // YOU DO🎈: Write a function that takes in two strings and prints a concatenation
